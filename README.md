@@ -7,4 +7,4 @@ For the map I used API.
 
 For some reasons I deleted the image processing and object detection parts, so those parts don't work.
 
-In these images you can see how every tab must show data.
+In the below image you can see the first tab of the application.
