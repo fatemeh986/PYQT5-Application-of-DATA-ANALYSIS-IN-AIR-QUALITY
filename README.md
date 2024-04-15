@@ -9,4 +9,23 @@ For some reasons I deleted the image processing and object detection parts, so t
 
 In the below images you can see the tabs of the application.
 
-![plot](./images/slide9.jpg)
+## Tab1
+![alt text](images/Slide9.jpg)
+
+
+## Tab2
+![alt text](images/Slide10.jpg)
+
+
+
+## Tab3
+![alt text](images/Slide11.jpg)
+
+
+
+## Correlation Coefficient
+![alt text](images/Slide12.jpg)
+
+
+## Tab4
+![alt text](images/Slide13.jpg)
