@@ -7,4 +7,6 @@ For the map I used API.
 
 For some reasons I deleted the image processing and object detection parts, so those parts don't work.
 
-In the below image you can see the first tab of the application.
+In the below images you can see the tabs of the application.
+
+![plot](./images/slide9.jpg)
